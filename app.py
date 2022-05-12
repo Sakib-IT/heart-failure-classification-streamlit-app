@@ -5,7 +5,7 @@ from joblib import load
 
 st.title('Heart Failure Prediction')
 
-st.sidebar.markdown("## Predict Housing Price")
+st.sidebar.markdown("## Predict Heart Failure")
 st.sidebar.markdown('## User Input')
 
 
